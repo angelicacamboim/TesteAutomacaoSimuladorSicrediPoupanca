@@ -1,4 +1,4 @@
-# Automação de teste - Simulador de investimento de Poupança
+# Automação de testes - Simulador de investimento de Poupança
 
 Estratégia de teste 
 
