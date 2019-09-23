@@ -25,7 +25,7 @@ Casos de teste com Rest Assured
 
 1- criarNovaSimulacao - Inserir inputs de entrada de valor inicial, valor a investir, tempo e periodo. Teste Positivo (O resultado esperado era 201 porém retornou 400).
 
-2- consultarDadosSimulacao - Consultar o resultado da simulação das 4 opções sugeridas pela aplicação de meses e valores. Teste Positivo
+2- consultarDadosSimulacao - Consultar o resultado da simulação das 4 opções geradas pela aplicação de meses e valores. Teste Positivo
 
 3- consultarRecursoInexistente - Somente uma consulta de um recurso inexistente para ver o comportamento do sistema. Teste negativo
 
