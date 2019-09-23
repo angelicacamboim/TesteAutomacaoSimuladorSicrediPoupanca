@@ -1,12 +1,13 @@
 # TesteAutomacaoSimuladorSicrediPoupanca
 
-Estratégia de teste
+Estratégia de teste 
 
-Partição de classe de equivalência e análise de valor limite para os inputs de entrada dos campos valor inicial e valor a investir
+Partição de classe de equivalência e análise de valor limite para os inputs de entrada dos campos valor inicial e valor a investir para os testes de UI com Selenium WebDriver
+Escolhi essa estratégia para limitar o número de caso de testes e ter um resultado satisfatório.
 
 Ferramenta de teste
 
-- Teste de regressão com Selenium Webdriver em Java v1.8 com Junit, PageObject, DataDrivenTest (Gerenciamento de massa de dados), Chromedriver para versões do Chrome 77 e 75
+- Teste de UI com Selenium Webdriver em Java v1.8 com Junit, PageObject, DataDrivenTest (Gerenciamento de massa de dados), Chromedriver para versões do Chrome 77 e 75
 
 - Teste de API com Rest Assured em Java v1.8 com Junit e BDD(Given, When, Then)
 
