@@ -2,7 +2,7 @@
 
 Estratégia de teste 
 
-Partição de classe de equivalência e análise de valor limite para os inputs de entrada dos campos valor inicial e valor a investir para os testes de UI com Selenium WebDriver
+Partição de classe de equivalência e análise de valor limite para os inputs de entrada dos campos valor inicial e valor a investir para os testes de UI com Selenium WebDriver.
 Escolhi essa estratégia para limitar o número de caso de testes e ter um resultado satisfatório.
 
 Ferramenta de teste
