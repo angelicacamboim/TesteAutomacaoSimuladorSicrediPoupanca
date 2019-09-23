@@ -1,4 +1,4 @@
-# TesteAutomacaoSimuladorSicrediPoupanca
+# Automação de teste - Simulador de investimento de Poupança
 
 Estratégia de teste 
 
