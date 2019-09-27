@@ -14,19 +14,19 @@ public class SimuladorPoupancaHomePage extends BasePage {
     public SimuladorPoupancaHomePage digitarValorInicial(String valor){
         driver.findElement(By.id("valorAplicar")).sendKeys(valor);
 
-        return new SimuladorPoupancaHomePage(driver);
+        return this;
     }
 
     public SimuladorPoupancaHomePage digitarValorInvestir(String valor){
         driver.findElement(By.id("valorInvestir")).sendKeys(valor);
 
-        return new SimuladorPoupancaHomePage(driver);
+        return this;
     }
 
     public SimuladorPoupancaHomePage digitarTempoQt(String tempo){
         driver.findElement(By.id("tempo")).sendKeys(tempo);
 
-        return new SimuladorPoupancaHomePage(driver);
+        return this;
     }
 
     public SimuladorPoupancaResultsPage clicarBotaoSimular(){
